@@ -1,0 +1,12 @@
+{
+    "cursor.general.disableHttp2": true,
+    "cursor.general.disableHttp1SSE": false,
+
+    "java.import.maven.enabled": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries": [
+        "module/**/*.jar",
+        "c:/Program Files/Apache Software Foundation/Tomcat 10.1/lib/servlet-api.jar",
+        "c:/Program Files/Apache Software Foundation/Tomcat 10.1/lib/jsp-api.jar"
+    ]
+}
